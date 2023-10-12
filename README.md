@@ -1,6 +1,5 @@
 # Credit Card Validator Application
-
-![Credit Card Validator](client\assets\CreditCardValidator.png)
+![Credit Card Validator](https://github.com/bestevez32/credit-card-validator/assets/12898955/605d628e-b162-4541-aa3c-56342c261abf)
 
 ## Project Requirements
 
